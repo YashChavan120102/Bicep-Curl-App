@@ -73,7 +73,7 @@ Just upload the `enhanced_bicep_app/` folder with all files to your [Streamlit C
 
 ## 🧑‍💻 Author
 
-Built with 💪 by **Vinayak Kumbhar**
+Built with 💪 by **Yash Chavan**
 
 ---
 
